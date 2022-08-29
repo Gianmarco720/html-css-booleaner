@@ -8,3 +8,17 @@ header {
     width: 200px;
 }
 
+#gray_word {
+    color: gray;
+    font-size: medium;
+}
+
+#blue_word {
+    color: #4ea0ff;
+    font-size: medium;
+}
+
+#date {
+    color: gray;
+    font-size: smaller;
+}
