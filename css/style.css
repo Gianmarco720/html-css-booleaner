@@ -25,3 +25,7 @@ header {
 #photo {
     font-size: small;
 }
+
+#highlight_word {
+    background-color: yellow;
+}
