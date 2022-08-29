@@ -20,5 +20,8 @@ header {
 
 #date {
     color: gray;
-    font-size: smaller;
+}
+
+#photo {
+    font-size: small;
 }
