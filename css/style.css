@@ -1,11 +1,21 @@
+:root {
+    --bol-dark: #000000;
+    --bol-secondary: #20A9E5;
+    --bol-primary: #4EA0FF;
+    --bol-gray: #808080;
+    --bol-primary-lite: #B1E5F2;
+    --bol-white: #FFFFFF;
+}
+
 header {
-    background-color: #4ea0ff;
+    background-color: var(--bol-primary);
     background-image: url(../img/pattern.png);
-    background-size: 8%;
+    background-size: 18%;
 }
 
 #logo {
-    width: 200px;
+    height: 50px;
+    margin: 1.5rem 0.5rem 0;
 }
 
 #gray_word {
@@ -34,20 +44,7 @@ table {
     border-collapse: collapse;
 }
 
-.tr_1 {
-    color: white
-    background-color: deepskyblue;
-}
-
-.tr_2 {
-    background-color: lightblue;
-}
-
-.tr_4 {
-    background-color: lightblue;
-}
 
 h4 {
     color: gray;
 }
-
